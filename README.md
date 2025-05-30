@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! I'm a passionate and experienced **Full-Stack Website Developer** with a strong foundation in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. I love solving complex problems, building scalable applications, and exploring the latest in web development.
 
+🔗 **Portfolio:** [alviportfolio.vercel.app](https://alviportfolio.vercel.app/)  
+💼 **LinkedIn:** [linkedin.com/in/hasnain-alvi-developer](https://www.linkedin.com/in/hasnain-alvi-developer/)  
+💻 **GitHub:** [github.com/alvi597](https://github.com/alvi597)
+
 ---
 
 ## 🔧 What I Do
@@ -78,11 +82,5 @@ I specialize in implementing **robust security practices** to protect websites a
 
 ---
 
-## 📬 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/hasnain-alvi-developer/)
-- 💻 [GitHub](https://github.com/alvi597)
-
----
-
 ⭐ **Feel free to explore my repos, contribute, or get in touch for collaboration opportunities. I'm always open to exciting new projects!**
+
