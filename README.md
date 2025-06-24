@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hasnain
 
-Welcome to my GitHub profile! I'm a passionate and experienced **Full-Stack Website Developer** with a strong foundation in the **MERN stack, Wordpress Custom Development and Plugin development (MongoDB, Express.js, React.js,Next.js Node.js,PHP,Laravel,Pythin,Django ,Three.js ,GASP)**. I love solving complex problems, building scalable applications, and exploring the latest in web development.
+Welcome to my GitHub profile! I'm a passionate and experienced **Full-Stack Website Developer** with a strong foundation in the **MERN stack, Wordpress Custom Development and Plugin development (MongoDB, Express.js, React.js,Next.js Node.js,PHP,Laravel,Python,Django ,Three.js ,GASP)**. I love solving complex problems, building scalable applications, and exploring the latest in web development.
 
 🔗 **Portfolio:** [alviportfolio.vercel.app](https://alviportfolio.vercel.app/)  
 💼 **LinkedIn:** [linkedin.com/in/hasnain-alvi-developer](https://www.linkedin.com/in/hasnain-alvi-developer/)  
