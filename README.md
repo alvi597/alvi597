@@ -8,6 +8,25 @@ Welcome to my GitHub profile! I'm a passionate and experienced **Full-Stack Webs
 
 ---
 
+## 🌐 Projects & Links
+
+Here are some of my live projects and websites:
+
+- [Portfolio](https://hasnain-portfolio-ten.vercel.app/)
+- [Pakistan Jobs Web](https://pakistan-jobs-web.vercel.app/)
+- [Hasnain Bot](https://hasnainbot-e652e.web.app/)
+- [SEO Audit Tool](https://hasnain-seo-audit-tool.vercel.app/)
+- [Crypto Trading Platform](https://crypto-trading-platform-ebon.vercel.app/)
+- [Gulf Jobs & Scholarships](https://gulf-jobs-scholarships.vercel.app/)
+- [CodeMode Editor](https://codemode-editor-irvk.vercel.app/)
+- [Falco Dev (Software House)](https://falcodev.com/)
+- [Automateed](https://www.automateed.com/)
+- [Healee](https://www.healee.com/)
+- [Propy](https://propy.com/)
+- [Talkwalker](https://www.talkwalker.com/)
+
+---
+
 ## 🔧 What I Do
 
 ### 🚀 Full-Stack Web Development
@@ -83,4 +102,3 @@ I specialize in implementing **robust security practices** to protect websites a
 ---
 
 ⭐ **Feel free to explore my repos, contribute, or get in touch for collaboration opportunities. I'm always open to exciting new projects!**
-
